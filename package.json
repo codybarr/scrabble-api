@@ -1,0 +1,23 @@
+{
+	"name": "scrabble",
+	"version": "1.0.0",
+	"description": "Simple serverless function for scrabble solving",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/codybarr/scrabble.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/codybarr/scrabble/issues"
+	},
+	"homepage": "https://github.com/codybarr/scrabble#readme",
+	"dependencies": {
+		"scrabble": "^1.0.9"
+	}
+}
