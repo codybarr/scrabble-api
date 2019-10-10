@@ -1,4 +1,4 @@
-# scrabble
+# scrabble-api
 
 Simple serverless function for scrabble solving
 
