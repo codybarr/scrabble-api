@@ -1,6 +1,6 @@
 {
 	"name": "scrabble",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"description": "Simple serverless function for scrabble solving",
 	"main": "index.js",
 	"scripts": {
@@ -18,6 +18,6 @@
 	},
 	"homepage": "https://github.com/codybarr/scrabble#readme",
 	"dependencies": {
-		"scrabble": "^1.0.9"
+		"@nosweat/scrabble": "^1.0.0"
 	}
 }

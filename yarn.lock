@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-scrabble@^1.0.9:
-  version "1.0.9"
-  resolved "https://registry.yarnpkg.com/scrabble/-/scrabble-1.0.9.tgz#26ba82628e09315d4d0a8a4346279b7f2c4908e6"
-  integrity sha512-yiFwBdtIe6Qd82bvNBd+XoiIjRs1S2pw/XKjdWkdOvE7ORU30heG/IF7GcuM7dEB7hM8yx2c6eNygfT1AL7X6A==
+"@nosweat/scrabble@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@nosweat/scrabble/-/scrabble-1.0.0.tgz#13887c1e855eb074d045671bc0fcff05a442d4e4"
+  integrity sha512-s0jrlGwmQwSJ5QWTIH7PpAdxK7Pn/FwHaDUXbY5As7b+oYG0zclmD7AKyLVtmxJcqBnYyLQfvEYdqePf0FKgsg==
