@@ -18,6 +18,6 @@
 	},
 	"homepage": "https://github.com/codybarr/scrabble#readme",
 	"dependencies": {
-		"@nosweat/scrabble": "^1.0.0"
+		"@nosweat/scrabble": "^1.0.1"
 	}
 }
